@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7a0f1fe88aee8d88eb382f8b0a230d41",
+  "assets/AssetManifest.json": "29bc7a8562a72dd9323bd93cce79036b",
 "assets/assets/fonts/barlow/Barlow-Bold.ttf": "72871854aabdd7a79c4fc5038cb4faaf",
 "assets/assets/fonts/barlow/Barlow-Light.ttf": "2f88cf8762c53a8be3c3ec53b8e01edf",
 "assets/assets/fonts/barlow/Barlow-Medium.ttf": "bdffb48240a3383080812d6830ff6f54",
 "assets/assets/images/about_bg.png": "d78546e60571b545cf3f46a0a24e5b17",
 "assets/assets/images/email_icon.png": "c9172bdda51109489593c86da58f10e8",
 "assets/assets/images/fiverr_icon.png": "03488a27032f48cf238018ef8590d2ab",
+"assets/assets/images/github_icon.png": "f2099b8ad2426edeef6e5ca7a950c0a5",
 "assets/assets/images/home_page_bg.jpg": "98c99864f1c6f8c2ba21727ce9b3e884",
 "assets/assets/images/instagram_icon.png": "34f57562f96c0dca5a686ea984bf2022",
 "assets/assets/images/medium_icon.png": "7ac2426c2ee3561db3802a85dfdf556c",
@@ -27,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d3571f6f1e4853b19fd93a7343bbb8ee",
-"/": "d3571f6f1e4853b19fd93a7343bbb8ee",
-"main.dart.js": "c3d2a9ecd6825b0683775da63c51982d",
+"index.html": "a745614be64798daf05370adfd3c18dc",
+"/": "a745614be64798daf05370adfd3c18dc",
+"main.dart.js": "e65cf22ed25905ae9af4e614d7d01894",
 "manifest.json": "9489fd5631ba1e20b033acee24aa6a18",
 "version.json": "fb8d4678888024cd5f83d8522bb3a722"
 };
